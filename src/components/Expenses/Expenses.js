@@ -11,6 +11,7 @@ function Expenses(props){
     setFilteredYear(selectedYear);
     }
 
+    // controlled component two way binding
     return (
      <div>
     <Card className="expenses">
